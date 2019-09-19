@@ -18,6 +18,8 @@ https://www.youtube.com/watch?v=svTFKtrGa_Q&feature=youtu.be
   
 ## Thumbnails
   
+  <img src="https://i.imgur.com/prAiIau.jpg" width="2000">
+  
   <img src= "https://i.imgur.com/Pglmu0b.jpg" width= "2000">
   
   <img src= "https://i.imgur.com/J18kxS5.jpg" width= "200"> <img src= "https://i.imgur.com/ME1hHR3.png" width= "200">
