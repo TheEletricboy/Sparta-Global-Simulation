@@ -6,17 +6,19 @@ Creating a full simulation of the Sparta Global Offices
 ## Game Demo Link:
 
 Newest link:
-https://youtu.be/dJK1mV8Pn6w
-
+https://youtu.be/YEPjvku_KkA
 
 
 older links:
+https://youtu.be/dJK1mV8Pn6w |
 https://youtu.be/SOQagmoHji8 | 
 https://youtu.be/qBxTcJBlNtg | 
 https://streamable.com/u5aw2 | 
 https://www.youtube.com/watch?v=svTFKtrGa_Q&feature=youtu.be
   
 ## Thumbnails
+  
+  <img src="https://i.imgur.com/pS2dxFJ.jpg" width="2000">
   
   <img src="https://i.imgur.com/prAiIau.jpg" width="2000">
   
