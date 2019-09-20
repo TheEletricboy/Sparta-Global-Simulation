@@ -6,10 +6,11 @@ Creating a full simulation of the Sparta Global Offices
 ## Game Demo Link:
 
 Newest link:
-https://youtu.be/YEPjvku_KkA
 
+https://youtu.be/o5lvQdn3aow
 
 older links:
+https://youtu.be/YEPjvku_KkA |
 https://youtu.be/dJK1mV8Pn6w |
 https://youtu.be/SOQagmoHji8 | 
 https://youtu.be/qBxTcJBlNtg | 
@@ -18,11 +19,21 @@ https://www.youtube.com/watch?v=svTFKtrGa_Q&feature=youtu.be
   
 ## Thumbnails
   
-  <img src="https://i.imgur.com/pS2dxFJ.jpg" width="2000">
+  <img src="https://i.imgur.com/vdxiLT0.jpg" width="2000">
   
-  <img src="https://i.imgur.com/prAiIau.jpg" width="2000">
+  <img src="https://i.imgur.com/QHr7xYh.jpg" width="2000">
   
-  <img src= "https://i.imgur.com/Pglmu0b.jpg" width= "2000">
+  <img src="https://i.imgur.com/usNyUog.jpg" width="2000">
+  
+  <img src="https://i.imgur.com/9LOHxq5.jpg" width="2000">
+  
+  <img src="https://i.imgur.com/RWvnd8M.jpg" width="2000">
+  
+  <img src="https://i.imgur.com/EHvrrp7.jpg" width="2000">
+  
+  <img src="https://i.imgur.com/prAiIau.jpg" width="1000">
+  
+  <img src= "https://i.imgur.com/Pglmu0b.jpg" width= "1000">
   
   <img src= "https://i.imgur.com/J18kxS5.jpg" width= "200"> <img src= "https://i.imgur.com/ME1hHR3.png" width= "200">
   
