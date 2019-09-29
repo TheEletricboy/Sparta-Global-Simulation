@@ -21,6 +21,9 @@ https://www.youtube.com/watch?v=svTFKtrGa_Q&feature=youtu.be
   
 ## Thumbnails
   
+  
+  <img src="https://i.imgur.com/COa3uNa.png" width="2000">
+  
   <img src="https://i.imgur.com/vdxiLT0.jpg" width="2000">
   
   <img src="https://i.imgur.com/QHr7xYh.jpg" width="2000">
